@@ -25,4 +25,4 @@ content:
 actions:
   - name: deploy-site
     label: Deploy site
-    workflow: pages-cms-action.yml
+    workflow: nextjs.yml
