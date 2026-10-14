@@ -25,4 +25,4 @@ content:
 actions:
   - name: deploy-site
     label: Deploy site
-    workflow: nextjs.yml
+    workflow: .github/workflows/nextjs.yml
